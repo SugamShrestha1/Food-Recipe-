@@ -11,12 +11,15 @@ import {GiKnifeFork} from 'react-icons/gi';
 const App = () => {
   return (
   <Router>
+    <div >
      <Link to='/'>
          <GiKnifeFork/>
       </Link>
      <Search/>
      <Category/>
       <Pages/>
+    </div>
+
   </Router>
   )
 }

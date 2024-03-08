@@ -45,7 +45,7 @@ input{
     height:30px;
     border-radius:50px;
     border:none;
-    left:100px;
+    left:200px;
     
 
     
